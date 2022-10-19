@@ -1,1 +1,1 @@
-My variadic function readme
+readme
